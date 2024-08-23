@@ -4,4 +4,3 @@
 - I think thee class will be interesting
 
 
-theme: jekyll-theme-minimal
